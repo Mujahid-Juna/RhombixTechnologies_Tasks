@@ -16,3 +16,5 @@ UCI Credit Screening Dataset (crx.data)
 
 ## Results
 Best parameters and F1-scores are saved in the `outputs/` folder.
+
+**Intern:** Mujahid Juna Internship: Machine Learning — Rhombix Technologies **Task:** Task 2 – Credit Card Approval Prediction
